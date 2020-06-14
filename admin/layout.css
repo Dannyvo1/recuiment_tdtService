@@ -1,0 +1,17 @@
+/* CSS Document */
+#hangTieuDe{
+	background-color:#09F;
+	color:white;
+	font-size:24px;
+	padding:10px
+	}
+#hang2 a{
+	width:150px;
+	padding:10px;
+	background-color:#03f;
+	color:#FFF;
+	font-weight:bold;
+	float: left;
+	margin-right:1px;
+	text-align:center;
+	}
